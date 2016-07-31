@@ -12,7 +12,7 @@ title = "The TechGlider"
     post = "/post/:year/:month/:day/:slug/"
 
 [params]
-    author = "The TechGlider"
+    author = "Kartik Singhal"
     subtitle = "Learning and sharing about Computer Science, programming, research & technology"
 
     rss = "true"
