@@ -1,6 +1,8 @@
 +++
 date = "2016-07-31T12:01:54-07:00"
 title = "Welcome to the all new TechGlider!"
+tags = ["announcement"]
+categories = ["update"]
 
 +++
 

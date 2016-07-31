@@ -3,13 +3,34 @@ languageCode = "en-us"
 title = "The TechGlider"
 
 [permalinks]
-    explainer = "/explainer/:year/:month/:day/:slug/"
-    howto = "/howto/:year/:month/:day/:slug/"
-    opinion = "/opinion/:year/:month/:day/:slug/"
-    review = "/review/:year/:month/:day/:slug/"
-    story = "/story/:year/:month/:day/:slug/"
+    explainer = "/essay/:slug/"
+    howto = "/essay/:slug/"
+    opinion = "/essay/:slug/"
 
-    post = "/post/:year/:month/:day/:slug/"
+    review = "/review/:slug/"
+    story = "/story/:slug/"
+
+    post = "/update/:slug/"
+
+#[[menu.main]]
+#    name = "Essays"
+#    url = "categories/essay"
+#
+#[[menu.main]]
+#    name = "Reviews"
+#    url = "categories/review"
+#
+#[[menu.main]]
+#    name = "Stories"
+#    url = "categories/story"
+
+[[menu.main]]
+    name = "Updates"
+    url = "categories/update"
+
+[indexes]
+    tag = "tags"
+    category = "categories"
 
 [params]
     author = "Kartik Singhal"

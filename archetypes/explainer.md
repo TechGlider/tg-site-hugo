@@ -1,4 +1,4 @@
 +++
 tags = ["x", "y"]
-categories = ["explainer"]
+categories = ["explainer", "essay"]
 +++

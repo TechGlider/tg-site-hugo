@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo server -w --theme=Hugo-Octopress
+hugo server -v -w --theme=Hugo-Octopress
