@@ -1,0 +1,24 @@
+baseurl = "https://techglider.github.io/"
+languageCode = "en-us"
+title = "The TechGlider"
+
+[permalinks]
+    explainer = "/explainer/:year/:month/:day/:slug/"
+    howto = "/howto/:year/:month/:day/:slug/"
+    opinion = "/opinion/:year/:month/:day/:slug/"
+    review = "/review/:year/:month/:day/:slug/"
+    story = "/story/:year/:month/:day/:slug/"
+
+    post = "/post/:year/:month/:day/:slug/"
+
+[params]
+    author = "The TechGlider"
+    subtitle = "Learning and sharing about Computer Science, programming, research & technology"
+
+    rss = "true"
+
+    sidebarRecentLimit = 5
+
+    github = "https://github.com/techglider"
+    twitter = "https://twitter.com/techglider"
+    slack = "https://techglider.slack.com"

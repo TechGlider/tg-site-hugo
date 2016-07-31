@@ -1,0 +1,7 @@
+[submodule "themes/Hugo-Octopress"]
+	path = themes/Hugo-Octopress
+	url = git@github.com:parsiya/Hugo-Octopress.git
+[submodule "public"]
+	path = public
+	url = git@github.com:techglider/techglider.github.io.git
+	branch = master
