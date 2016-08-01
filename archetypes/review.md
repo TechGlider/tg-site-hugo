@@ -11,6 +11,12 @@ type = "post"
 ## Date
 Date and/or conference
 
+<!--more-->
+
+## DOI/Authoritative Link to Paper
+- []()
+- []()
+
 ## Novel Idea
 Describe in a sentence or two the new ideas presented in the paper
 

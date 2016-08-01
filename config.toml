@@ -15,11 +15,11 @@ title = "The TechGlider"
 #[[menu.main]]
 #    name = "Essays"
 #    url = "categories/essay"
-#
-#[[menu.main]]
-#    name = "Reviews"
-#    url = "categories/review"
-#
+
+[[menu.main]]
+    name = "Reviews"
+    url = "categories/review"
+
 #[[menu.main]]
 #    name = "Stories"
 #    url = "categories/story"
