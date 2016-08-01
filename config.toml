@@ -40,6 +40,11 @@ title = "The TechGlider"
 
     sidebarRecentLimit = 5
 
+    searchEngineURL = "https://www.google.com/search"
+
     github = "https://github.com/techglider"
     twitter = "https://twitter.com/techglider"
     slack = "https://techglider.slack.com"
+
+[blackfriday]
+    fractions = "false"
