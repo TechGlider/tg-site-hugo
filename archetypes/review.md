@@ -1,6 +1,7 @@
 +++
-tags = ["paper", "book"]
+tags = ["papers", "books"]
 categories = ["review"]
+type = "post"
 +++
 
 ## Paper Title
