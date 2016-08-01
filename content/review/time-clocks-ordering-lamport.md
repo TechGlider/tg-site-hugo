@@ -2,7 +2,7 @@
 categories = ["review"]
 date = "2016-07-31T20:28:41-07:00"
 tags = ["papers", "clock synchronization", "computer networks", "distributed systems", "multiprocess systems"]
-title = "Paper Review: Time, Clocks, and Ordering of Events in a Distributed System"
+title = "Time, Clocks, and Ordering of Events in a Distributed System"
 type = "post"
 
 +++
