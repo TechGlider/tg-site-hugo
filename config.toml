@@ -36,7 +36,7 @@ title = "The TechGlider"
     author = "Kartik Singhal"
     subtitle = "Learning and sharing about Computer Science, programming, research & technology"
 
-    rss = "true"
+    rss = true
 
     sidebarRecentLimit = 5
 
@@ -47,4 +47,4 @@ title = "The TechGlider"
     slack = "https://techglider.slack.com"
 
 [blackfriday]
-    fractions = "false"
+    fractions = false
