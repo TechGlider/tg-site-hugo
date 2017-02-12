@@ -47,6 +47,8 @@ A criticism of the work that merits discussion
 ## Ideas for further work
 Did this paper give you ideas for future work, projects, or connections to other work? (Hint: this is not the paper's Future Work section, write here IF the paper inspired any ideas in you!)
 
-### Template Credits
-Rodrigo Fonseca http://cs.brown.edu/courses/csci2950-u/s14/review.html
 
+<hr />
+
+Review Template Credits:
+[Prof. Rodrigo Fonseca](http://cs.brown.edu/courses/csci2950-u/s14/review.html)

@@ -43,8 +43,11 @@ NA
 ## Ideas for further work
 I found the connections to queueing theory/control theory and even the conservation principle of liquid flow as an analogy to network flow really interesting. It also reminded me of [Lamport's time, clocks, ordering paper](/review/time-clocks-and-ordering-of-events-in-a-distributed-system/) where he was able to bring in ideas from relativity into computing. These connections, in general, suggest how sometimes well-established ideas from another field can be applied to one's field and why interdisciplinary research makes good sense.
 
-### Template Credits
-Rodrigo Fonseca http://cs.brown.edu/courses/csci2950-u/s14/review.html
+
+<hr />
+
+Review Template Credits:
+[Prof. Rodrigo Fonseca](http://cs.brown.edu/courses/csci2950-u/s14/review.html)
 
 ### Note
 1. I am taking a graduate seminar this semester at Brown: [Special Topics on Networking and Distributed Systems Advanced Networking](http://cs.brown.edu/courses/csci2950-u/s17/). This and most of the following paper reviews until early-May will be my reviews submitted for this seminar with some minor editing.
