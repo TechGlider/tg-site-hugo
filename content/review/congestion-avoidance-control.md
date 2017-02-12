@@ -50,5 +50,5 @@ Review Template Credits:
 [Prof. Rodrigo Fonseca](http://cs.brown.edu/courses/csci2950-u/s14/review.html)
 
 ### Note
-1. I am taking a graduate seminar this semester at Brown: [Special Topics on Networking and Distributed Systems Advanced Networking](http://cs.brown.edu/courses/csci2950-u/s17/). This and most of the following paper reviews until early-May will be my reviews submitted for this seminar with some minor editing.
+1. I am taking a graduate seminar this semester at Brown: [Special Topics on Networking and Distributed Systems](http://cs.brown.edu/courses/csci2950-u/s17/). This and most of the following paper reviews until early-May will be my reviews submitted for this seminar with some minor editing.
 2. This review posted here on Feb 9, 2017
