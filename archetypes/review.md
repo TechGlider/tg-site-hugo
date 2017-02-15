@@ -17,11 +17,8 @@ Date and/or conference
 - []()
 - []()
 
-## Novel Idea
-Describe in a sentence or two the new ideas presented in the paper
-
-## Main Result(s)
-Describe in a sentence or two the main results obtained in the paper
+## Novel Idea / Main Result(s)
+Describe in a sentence or two the new ideas presented / main results obtained in the paper
 
 ## Impact
 What is the importance of these results. What impact might they have on theory or practice of Computer Systems
