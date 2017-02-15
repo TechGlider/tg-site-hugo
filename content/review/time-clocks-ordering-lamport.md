@@ -14,7 +14,7 @@ Time, Clocks, and Ordering of Events in a Distributed System
 Leslie Lamport
 
 ## Date
-Communications of the ACM, Volume 21 Issue 7, July 1978
+July 1978. Communications of the ACM, Volume 21 Issue 7.
 
 <!--more-->
 
@@ -64,4 +64,3 @@ This paper clarified many concepts about time and synchronization between proces
 
 Review Template Credits:
 [Prof. Rodrigo Fonseca](http://cs.brown.edu/courses/csci2950-u/s14/review.html)
-

@@ -2,7 +2,7 @@
 date = "2017-02-01T22:43:36-05:00"
 title = "Congestion Avoidance and Control"
 categories = ["review"]
-tags = ["papers","computer networks", "TCP", "protocols", "SIGCOMM", "communications", "seminar"]
+tags = ["papers","computer networks", "TCP", "protocols", "congestion control", "SIGCOMM", "communications", "seminar"]
 type = "post"
 
 +++
@@ -14,7 +14,7 @@ Congestion Avoidance and Control
 Van Jacobson and Michael J Karels
 
 ## Date
-November, 1988 (Slightly revised version; originally published in Symposium proceedings on Communications architectures and protocols (SIGCOMM '88))
+November 1988 (Slightly revised version; originally published in Symposium proceedings on Communications architectures and protocols (SIGCOMM '88))
 
 <!--more-->
 
