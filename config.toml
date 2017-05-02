@@ -17,6 +17,10 @@ title = "The TechGlider"
 #    url = "categories/essay"
 
 [[menu.main]]
+    name = "Links"
+    url = "categories/link"
+
+[[menu.main]]
     name = "Reviews"
     url = "categories/review"
 
