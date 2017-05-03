@@ -7,11 +7,11 @@ type = "post"
 
 +++
 
-William (Bill) Gasarch writes on the [Computational Complexity blog](http://blog.computationalcomplexity.org/) about a recent talk that Guy Steele gave at Harvard on Harry Lewis's 70th birthday:
+William (Bill) Gasarch writes on the [Computational Complexity blog](http://blog.computationalcomplexity.org/) about a recent talk that Guy Steele gave at Harvard on Harry Lewis's 70th birthday (_some spellings corrected_):
 
 > Guy Steele gave the most technical talk and it was, as the kids say, awesome (do adults still say 'as the kids say'?) Here is a version of the talk:
 >
-> [A Logial Concern](https://labs.oracle.com/pls/apex/f?p=labs:40150:0::::P40000_PUBLICATION_ID:4986)
+> [A Logical Concern](https://labs.oracle.com/pls/apex/f?p=labs:40150:0::::P40000_PUBLICATION_ID:4986)
 >
 > Its about how papers at POPL and some other conference have been informally using a language to specify protocols and by now its all bent out of shape. There is also some nice history of math embedded in the talk of which I'll say one thing: one way to group terms together is by placing a bar over them. The most common use of this now is the square-root sign which didn't always have that bar over the quantity.
 >
