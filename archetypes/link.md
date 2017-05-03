@@ -6,4 +6,4 @@ type = "post"
 
 > paste from source
 
-[Visit source]()
+[Visit original source]()
