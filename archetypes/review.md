@@ -1,4 +1,6 @@
 +++
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
 tags = ["papers", "books"]
 categories = ["review"]
 type = "post"
