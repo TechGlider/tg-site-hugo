@@ -27,6 +27,6 @@ William (Bill) Gasarch writes on the [Computational Complexity blog](http://blog
 >
 > I leave it to you to figure out who these quotes are credited to (different people).
 
-The talk video (~42 minutes) is available on [YouTube](https://youtu.be/6fyB6C0sue4?t=1h). This was an adaptation of an invited keynote that Guy Steele gave at PPoPP '17 titled [It's Time for a New Old Language](http://dl.acm.org/citation.cfm?id=3018773). The video for the original talk seems unavailable. (_Aside_: Does ACM ever publish videos of all the talks that are recorded during their conferences? If not, why not in this day and age of convenient video distribution? I cannot find the videos for POPL '16 with a quick Google search, which I had attended and seem to recall was being recorded.)
+The talk video (~42 minutes) is available on [YouTube](https://youtu.be/lEPmW0-EWRw?t=37m46s). This was an adaptation of an invited keynote that Guy Steele gave at PPoPP '17 titled [It's Time for a New Old Language](http://dl.acm.org/citation.cfm?id=3018773). The video for the original talk seems unavailable. (_Aside_: Does ACM ever publish videos of all the talks that are recorded during their conferences? If not, why not in this day and age of convenient video distribution? I cannot find the videos for POPL '16 with a quick Google search, which I had attended and seem to recall was being recorded.)
 
 [Visit original source](http://blog.computationalcomplexity.org/2017/05/a-celebration-of-computer-science-at.html)
